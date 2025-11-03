@@ -17,9 +17,8 @@ A comprehensive set of wireframes was created using Balsamiq, visually represent
 
 <img width="255" height="572" alt="image" src="https://github.com/user-attachments/assets/b0ad3d11-365a-4d5f-a7b1-2b8aa4e0eba0" />
 <img width="272" height="587" alt="image" src="https://github.com/user-attachments/assets/9618268e-795c-4a0f-abb6-c5cdd76bd9ee" />
+
 <img width="282" height="576" alt="image" src="https://github.com/user-attachments/assets/1af98624-ac4c-4e16-a09a-e8e7fb7414d3" />
-
-
 <img width="351" height="671" alt="image" src="https://github.com/user-attachments/assets/fffc8fb0-a05f-4de3-b967-b2d0c6879e38" />
 
 ## Result:
